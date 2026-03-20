@@ -1,6 +1,6 @@
 
 import React from "react";
-import { carregarTarefas, salvarTarefas, statusConfig, prioridadeConfig } from "./_shared";
+import { carregarTarefas, salvarTarefas, statusConfig, prioridadeConfig } from "./shared";
 
 const campoStyle = {
   width: "100%",
