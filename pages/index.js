@@ -1,6 +1,6 @@
 
 import React from "react";
-import { carregarTarefas, statusConfig, prioridadeConfig } from "./_shared";
+import { carregarTarefas, statusConfig, prioridadeConfig } from "./shared";
 
 export default function Home() {
   const [tarefas, setTarefas] = React.useState([]);
